@@ -1,0 +1,67 @@
+record_id,adj_method_bin,intervention,intervention_recoded,atc_code,atc_name,pathology,pathology_recoded,pathology_onco_bin,icd11,chap,chap_title
+1,Balancing-based methods,andexanet alpha,Coagulation reversal agent,V03,All other therapeutic products,intracranial hemorrhage,Cardiovascular,0,8B0Z,8,Diseases of the nervous system
+2,Balancing-based methods,teclistamab,Immunotherapy,L01,Antineoplastic agents,multiple myeloma,Hematology,1,2A83,2,Neoplasms
+3,Non-balancing methods,imlifidase,Enzyme therapy,L04,Immunosuppressants,anti glomerular basement membrane disease; kidney failure,Kidney Disease,0,MF85,21,"Symptoms, signs or clinical findings, not elsewhere classified"
+3,Non-balancing methods,imlifidase,Enzyme therapy,L04,Immunosuppressants,anti glomerular basement membrane disease; kidney failure,Kidney Disease,0,GB6Z,16,Diseases of the genitourinary system
+4,Balancing-based methods,lisocabtagene maraleucel,Cell therapy,L01,Antineoplastic agents,relapse refractory diffuse large b cell lymphoma,Hematology,1,2A81,2,Neoplasms
+5,Balancing-based methods,mosunetuzumab,Immunotherapy,L01,Antineoplastic agents,relapsed refractory follicular lymphoma,Hematology,1,2A80,2,Neoplasms
+6,Balancing-based methods,amivantamab,Targeted therapy,L01,Antineoplastic agents,advanced non small cell lung cancer egfr exon 20 insertion mutation,Pneumology,1,2C25,2,Neoplasms
+8,Balancing-based methods,selpercatinib,Targeted therapy,L01,Antineoplastic agents,ret fusion advanced metastatic non small cell lung cancer,Pneumology,1,2C25,2,Neoplasms
+9,Non-balancing methods,local phage combination therapy,Phage therapy,N/A,N/A,periprosthetic hip joint infection,Infectious Disease,0,NE83,22,"Injury, poisoning or certain other consequences of external causes"
+10,Balancing-based methods,atezolizumab; bevacizumab,Immunotherapy,L01,Antineoplastic agents,appendiceal adenocarcinoma,Gastroenterology,1,2B93,2,Neoplasms
+10,Balancing-based methods,atezolizumab; bevacizumab,Immunotherapy,L01,Antineoplastic agents,appendiceal adenocarcinoma,Gastroenterology,1,2B93,2,Neoplasms
+11,Balancing-based methods,amivantamab,Targeted therapy,L01,Antineoplastic agents,advanced non small cell lung cancer egfr exon 20 insertion ,Pneumology,1,2C25,2,Neoplasms
+12,Non-balancing methods,anti thymocyte globulin ,Immunosuppressive therapy,L04,Immunosuppressants,hematological malignancies,Hematology,1,N/A,NA,N/A
+13,Non-balancing methods,dexamethasone; ondansetron; diphenhydramine,Supportive care,H02,Corticosteroids for systemic use,neoplasm,Oncology,1,N/A,NA,N/A
+13,Non-balancing methods,dexamethasone; ondansetron; diphenhydramine,Supportive care,A04,Antiemetics and antinauseants,neoplasm,Oncology,1,N/A,NA,N/A
+13,Non-balancing methods,dexamethasone; ondansetron; diphenhydramine,Supportive care,R06,Antihistamines for systemic use,neoplasm,Oncology,1,N/A,NA,N/A
+14,Non-balancing methods,bortezomib,Targeted therapy,L01,Antineoplastic agents,multiple myeloma,Hematology,1,2A83,2,Neoplasms
+15,Balancing-based methods,paliperidone ,Psychiatric treatment,N05,Psycholeptics,schizophrenia,Psychiatry,0,6A20,6,"Mental, behavioural or neurodevelopmental disorders"
+18,Balancing-based methods,levetiracetam,Neurological treatment,N03,Antiepileptics,glioblastoma,Neurology,1,2A00,2,Neoplasms
+20,Balancing-based methods,tocilizumab,Immunotherapy,L04,Immunosuppressants,covid 19 related pneumonia,COVID19,0,RA01,25,Codes for special purposes
+21,Balancing-based methods,convalescent plasma therapy,Immunotherapy,B05,Blood substitutes and perfusion solutions,covid 19,COVID19,0,RA01,25,Codes for special purposes
+22,Balancing-based methods,mobocertinib,Targeted therapy,L01,Antineoplastic agents,non small cell lung cancer,Pneumology,1,2C25,2,Neoplasms
+24,Non-balancing methods,HLA mismatched allogeneic T cell infusion,Cell therapy,N/A,N/A,myelodysplatic syndromes; acute myeloid leukemia,Hematology,1,2A3Z,2,Neoplasms
+24,Non-balancing methods,HLA mismatched allogeneic T cell infusion,Cell therapy,N/A,N/A,myelodysplatic syndromes; acute myeloid leukemia,Hematology,1,2A60,2,Neoplasms
+25,Balancing-based methods,valoctocogene roxaparvovec,Gene therapy,B02,Antihemorrhagics,hemophilia a,Hematology,0,3B10,3,Diseases of the blood or blood-forming organs
+26,Balancing-based methods,tamoxifen,Hormonal therapy,L02,Endocrine therapy,duchenne muscular dystrophy,Neurology,0,8C70,8,Diseases of the nervous system
+27,Balancing-based methods,ruxolitinib,Targeted therapy,L01,Antineoplastic agents,severe fever with thrombocytopenia syndrome,Hematology,0,1D4E,1,Certain infectious or parasitic diseases
+28,Non-balancing methods,plerixafor,Stem cell mobilizer,L03,Immunostimulants,malignant; non malignant diseases,Oncology,1,N/A,NA,N/A
+28,Non-balancing methods,plerixafor,Stem cell mobilizer,L03,Immunostimulants,malignant; non malignant diseases,Other,0,N/A,NA,N/A
+29,Balancing-based methods,IgM‐like ACE2 fusion protein HH‐120,Experimental biologic,N/A,N/A,covid 19,COVID19,0,RA01,25,Codes for special purposes
+30,Non-balancing methods,lacosamide,Neurological treatment,N03,Antiepileptics,astrocytoma; oligodendroglioma; multiform glioblastoma; cerebral lymphoma ,Neurology,1,XH6P,NA,N/A
+30,Non-balancing methods,lacosamide,Neurological treatment,N03,Antiepileptics,astrocytoma; oligodendroglioma; multiform glioblastoma; cerebral lymphoma ,Neurology,1,XH7W,NA,N/A
+30,Non-balancing methods,lacosamide,Neurological treatment,N03,Antiepileptics,astrocytoma; oligodendroglioma; multiform glioblastoma; cerebral lymphoma ,Neurology,1,2A00,2,Neoplasms
+30,Non-balancing methods,lacosamide,Neurological treatment,N03,Antiepileptics,astrocytoma; oligodendroglioma; multiform glioblastoma; cerebral lymphoma ,Hematology,1,2A81,2,Neoplasms
+31,Non-balancing methods,camrelizumab plus platinum irinotecan,Immunotherapy + chemotherapy,N/A,N/A,extensive stage small cell lung cancer,Pneumology,1,2C25,2,Neoplasms
+32,Non-balancing methods,ketamine,Anesthetic/psychiatric,N01,Anesthetics,septic schock,Infectious Disease,0,1G41,1,Certain infectious or parasitic diseases
+33,Non-balancing methods,ruxolitinib,Targeted therapy,L01,Antineoplastic agents,covid 19,COVID19,0,RA01,25,Codes for special purposes
+34,Balancing-based methods,losartan,Antihypertensive,C09,Agents acting on the renin-angiotensin system,covid 19,COVID19,0,RA01,25,Codes for special purposes
+35,Non-balancing methods,sitagliptin,Antidiabetic agent,A10,Drugs used in diabetes,type 2 diabetes mellitus,Endocrinology,0,5A11,5,"Endocrine, nutritional or metabolic diseases"
+36,Non-balancing methods,bicalutamide,Hormonal therapy,L02,Endocrine therapy,castration resistant prostate cancer,Urology,1,2C82,2,Neoplasms
+37,Non-balancing methods,vonoprazan,Gastrointestinal therapy,A02,Drugs for acid related disorders,gastric cancer,Gastroenterology,1,2B72,2,Neoplasms
+40,Non-balancing methods,tacrolimus,Immunosuppressive therapy,L04,Immunosuppressants,interstitial pneumonia,Pneumology,0,CB03,12,Diseases of the respiratory system
+41,Non-balancing methods,dexmedetomidine,Sedative,N05,Psycholeptics,esophageal squamous cell carcinoma,Gastroenterology,1,2B70,2,Neoplasms
+42,Non-balancing methods,cilostazol plus aspirin or clopidogrel,Antiplatelet therapy,B01,Antithrombotic agents,branch atheromatous disease,Cardiovascular,0,8B11,8,Diseases of the nervous system
+42,Non-balancing methods,cilostazol plus aspirin or clopidogrel,Antiplatelet therapy,B01,Antithrombotic agents,branch atheromatous disease,Cardiovascular,0,8B11,8,Diseases of the nervous system
+42,Non-balancing methods,cilostazol plus aspirin or clopidogrel,Antiplatelet therapy,B01,Antithrombotic agents,branch atheromatous disease,Cardiovascular,0,8B11,8,Diseases of the nervous system
+43,Balancing-based methods,recombinant human FGF-2,Regenerative therapy,N/A,N/A,osteonecrosis of the femoral head,Orthopedics,0,FB81,15,Diseases of the musculoskeletal system or connective tissue
+44,Balancing-based methods,larotrectinib,Targeted therapy,L01,Antineoplastic agents,locally advanced or metastatic infantile fibrosarcoma,Pediatrics,1,XH7B,NA,N/A
+46,Non-balancing methods,prostacyclin,Vasodilator,B01,Antithrombotic agents,primary pulmonary hypertension,Pneumology,0,BB01,11,Diseases of the circulatory system
+50,Balancing-based methods,blinatumomab,Immunotherapy,L01,Antineoplastic agents,relapsed refractory philadelphia chromosome-positive b precursor acute lymphoblastic leukemia,Hematology,1,2B33,2,Neoplasms
+51,Non-balancing methods,growth hormone,Hormonal therapy,H01,Pituitary and hypothalamic hormones and analogues,idiopathic short stature,Pediatrics,0,5B11,5,"Endocrine, nutritional or metabolic diseases"
+53,Non-balancing methods,caspofungin,Antifungal,J02,Antimycotics for systemic use,invasive aspergillosis,Infectious Disease,0,1F20,1,Certain infectious or parasitic diseases
+54,Balancing-based methods,Ku Gan formula,Traditional/alternative medicine,N/A,N/A,atopic dermatitis,Dermatology,0,EA8Z,14,Diseases of the skin
+55,Non-balancing methods,daclizumab,Immunosuppressive therapy,L04,Immunosuppressants,renal transplant recipient,Transplantation,0,QB63,24,Factors influencing health status or contact with health services
+56,Non-balancing methods,omega 3 fish oil,Nutritional supplement,C10,Lipid modifying agents,advanced esophago gastric cancer,Gastroenterology,1,2B71,2,Neoplasms
+57,Non-balancing methods,vaccinia induced melanoma cell lysates,Therapeutic vaccine,L03,Immunostimulants,metastatic melanoma,Dermatology,1,2C30,2,Neoplasms
+60,Non-balancing methods,C1 inhibitors,Complement inhibitor,B06,Other hematological agents,antibody mediated rejection in kidney transplant,Transplantation,0,NE84,22,"Injury, poisoning or certain other consequences of external causes"
+61,Balancing-based methods,lenalidomide,Targeted therapy,L04,Immunosuppressants,myelodysplastic syndromes,Hematology,1,2A3Z,2,Neoplasms
+62,Balancing-based methods,desipramine,Psychiatric treatment,N06,Psychoanaleptics,multiple myeloma,Hematology,1,2A83,2,Neoplasms
+64,Non-balancing methods,bevacizumab ,Targeted therapy,L01,Antineoplastic agents,covid 19,COVID19,0,RA01,25,Codes for special purposes
+65,Non-balancing methods,recombinant human granulocyte colony stimulating factor,Hematopoietic growth factor,L03,Immunostimulants,acute myeloid leukemia,Hematology,1,2A60,2,Neoplasms
+66,Balancing-based methods,inhaled nitric oxide,Vasodilator,R07,Other respiratory system products,lung transplantation,Transplantation,0,QB63,24,Factors influencing health status or contact with health services
+67,Balancing-based methods,dostarlimab,Immunotherapy,L01,Antineoplastic agents,endometrial cancer,Gynecology,1,2C76,2,Neoplasms
+69,Balancing-based methods,ciltacabtagene autoleucel,Cell therapy,L01,Antineoplastic agents,multiple myeloma,Hematology,1,2A83,2,Neoplasms
+70,Balancing-based methods,elranatamab,Immunotherapy,L01,Antineoplastic agents,multiple myeloma,Hematology,1,2A83,2,Neoplasms
+71,Balancing-based methods,abemaciclib,Targeted therapy,L01,Antineoplastic agents,hr+ her2− metastatic breast cancer,Gynecology,1,2C6Z,2,Neoplasms

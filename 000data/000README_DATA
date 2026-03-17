@@ -1,0 +1,16 @@
+## Description of files in `~/05_data_analysis/000data/`
+
+**`file_name`: description (function)**
+
+
+`RS_SAT_EC_essai_rwd_format_redcap.csv`: Pooled references (PubMed, WoS and additional) formatted for Redcap import (Redcap)
+
+`data_XXXXXX.csv`: latest database (main analysis)
+`MatyldeDIouf_JCR_JournalResults_05_2025.csv`: JCR database of included reviews (main analysis)
+`pathology_recoded.csv`: list of pathologies in each article (created in `~/05_data_analysis/000codes/02data_management.R` (experimental arm)) (main analysis)
+`pathology_intervention_recoded.csv`: recoded list of pathologies and interventions in each article for the sankey diagram (created in `~/05_data_analysis/000codes/0033_fig_4_sankey.R`) (main analysis)
+`atc_output/`: ATC codes (main analysis)
+`icd11/`: ICD11 codes (main analysis)
+
+`dict_sylvie_090525.csv`: sylvie database dictionnary (for cross validation)
+`sylvie_050625.csv`: sylvie database (for cross validation)

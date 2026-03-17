@@ -1,0 +1,61 @@
+pathology,pathology_recoded,pathology_onco_bin
+intracranial hemorrhage,Cardiovascular,0
+multiple myeloma,Hematology,1
+anti glomerular basement membrane disease,Kidney Disease,0
+ kidney failure,Kidney Disease,0
+relapse refractory diffuse large b cell lymphoma,Hematology,1
+relapsed refractory follicular lymphoma,Hematology,1
+advanced non small cell lung cancer egfr exon 20 insertion mutation,Pneumology,1
+ret fusion advanced metastatic non small cell lung cancer,Pneumology,1
+periprosthetic hip joint infection,Infectious Disease,0
+appendiceal adenocarcinoma,Gastroenterology,1
+advanced non small cell lung cancer egfr exon 20 insertion ,Pneumology,1
+hematological malignancies,Hematology,1
+neoplasm,Oncology,1
+multiple myeloma,Hematology,1
+schizophrenia,Psychiatry,0
+glioblastoma,Neurology,1
+covid 19 related pneumonia,COVID19,0
+covid 19,COVID19,0
+non small cell lung cancer,Pneumology,1
+myelodysplatic syndromes,Hematology,1
+ acute myeloid leukemia,Hematology,1
+hemophilia a,Hematology,0
+duchenne muscular dystrophy,Neurology,0
+severe fever with thrombocytopenia syndrome,Hematology,0
+malignant and non malignant diseases,Oncology,1
+covid 19,COVID19,0
+astrocytoma,Neurology,1
+ oligodendroglioma,Neurology,1
+ multiform glioblastoma,Neurology,1
+ cerebral lymphoma ,Hematology,1
+extensive stage small cell lung cancer,Pneumology,1
+septic schock,Infectious Disease,0
+covid 19,COVID19,0
+covid 19,COVID19,0
+type 2 diabetes mellitus,Endocrinology,0
+castration resistant prostate cancer,Urology,1
+gastric cancer,Gastroenterology,1
+interstitial pneumonia,Pneumology,0
+esophageal squamous cell carcinoma,Gastroenterology,1
+branch atheromatous disease,Cardiovascular,0
+osteonecrosis of the femoral head,Orthopedics,0
+locally advanced or metastatic infantile fibrosarcoma,Pediatrics,1
+primary pulmonary hypertension,Pneumology,0
+relapsed refractory philadelphia chromosome-positive b precursor acute lymphoblastic leukemia,Hematology,1
+idiopathic short stature,Pediatrics,0
+invasive aspergillosis,Infectious Disease,0
+atopic dermatitis,Dermatology,0
+renal transplant recipient,Transplantation,0
+advanced esophago gastric cancer,Gastroenterology,1
+metastatic melanoma,Dermatology,1
+antibody mediated rejection in kidney transplant,Transplantation,0
+myelodysplastic syndromes,Hematology,1
+multiple myeloma,Hematology,1
+covid 19,COVID19,0
+acute myeloid leukemia,Hematology,1
+lung transplantation,Transplantation,0
+endometrial cancer,Gynecology,1
+multiple myeloma,Hematology,1
+multiple myeloma,Hematology,1
+metastatic breast cancer,Gynecology,1
