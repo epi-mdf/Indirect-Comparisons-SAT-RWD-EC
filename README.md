@@ -15,5 +15,5 @@ Code files are labelled explicitely and have an explicit header.
 
 
 ## 3. Results
-In `~/000results/`. 
+In `~/000results/`.  
 Output of codes (Word tables and figures for publication).  
